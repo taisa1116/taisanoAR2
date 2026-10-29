@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 903,
+    "left": 0,
+    "width": 566,
+    "height": 755,
+    "isRotated": true,
+    "originalWidth": 566,
+    "originalHeight": 2612
+  },
+  "imagePath": "image-targets/DSC_0018_luminance.jpg",
+  "metadata": null,
+  "name": "DSC_0018",
+  "resources": {
+    "originalImage": "DSC_0018_original.jpg",
+    "croppedImage": "DSC_0018_cropped.jpg",
+    "thumbnailImage": "DSC_0018_thumbnail.jpg",
+    "luminanceImage": "DSC_0018_luminance.jpg"
+  },
+  "created": 1792683454048,
+  "updated": 1792683552101
+}

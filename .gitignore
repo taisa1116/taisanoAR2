@@ -1,0 +1,16 @@
+# OS / エディタのゴミ
+.DS_Store
+tmp/
+
+# 依存ライブラリ
+node_modules/
+
+# ビルド成果物（GitHub Pages にアップロードするだけ）
+dist/
+
+# 8th Wall の HTML5 bundle 出力
+*.zip
+
+# ローカルサーバーのキャッシュ（もし生成される場合）
+.cache/
+
