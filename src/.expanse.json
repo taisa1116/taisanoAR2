@@ -242,7 +242,7 @@
           "type": "asset",
           "asset": "assets/1_4.glb"
         },
-        "animationClip": "ani01",
+        "animationClip": "",
         "loop": false,
         "paused": false
       },
@@ -360,7 +360,7 @@
           "type": "asset",
           "asset": "assets/1_4.glb"
         },
-        "animationClip": "ani03",
+        "animationClip": "",
         "loop": false,
         "paused": false
       },
@@ -394,7 +394,7 @@
           "type": "asset",
           "asset": "assets/1_4.glb"
         },
-        "animationClip": "ani02",
+        "animationClip": "",
         "loop": false,
         "paused": false
       },
@@ -428,7 +428,7 @@
           "type": "asset",
           "asset": "assets/1_4.glb"
         },
-        "animationClip": "ani04",
+        "animationClip": "",
         "loop": false,
         "paused": false
       },
@@ -870,7 +870,7 @@
           "type": "asset",
           "asset": "assets/5_8.glb"
         },
-        "animationClip": "ani05",
+        "animationClip": "",
         "loop": false
       },
       "name": "5_8.glb",
@@ -903,7 +903,7 @@
           "type": "asset",
           "asset": "assets/5_8.glb"
         },
-        "animationClip": "ani06",
+        "animationClip": "",
         "loop": false
       },
       "name": "5_8.glb (1)",
@@ -936,7 +936,7 @@
           "type": "asset",
           "asset": "assets/5_8.glb"
         },
-        "animationClip": "ani07",
+        "animationClip": "",
         "loop": false
       },
       "name": "5_8.glb (2)",
@@ -969,7 +969,7 @@
           "type": "asset",
           "asset": "assets/5_8.glb"
         },
-        "animationClip": "ani08",
+        "animationClip": "",
         "loop": false
       },
       "name": "5_8.glb (3)",
