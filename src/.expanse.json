@@ -804,7 +804,7 @@
           "id": "4ec1c845-a8d1-44f1-a13b-ec078371bb4a",
           "name": "Keep After Image Target Lost",
           "parameters": {
-            "imageTargetName": "goal",
+            "imageTargetName": "goal-1",
             "model": {
               "type": "entity",
               "id": "b1bf7cb3-0073-4279-933c-709a736d6b99"
@@ -839,7 +839,7 @@
       "components": {},
       "name": "イメージターゲット (5)",
       "imageTarget": {
-        "name": "goal"
+        "name": "goal-1"
       },
       "order": 25.859061804459
     },

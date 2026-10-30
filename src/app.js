@@ -8,7 +8,7 @@ const onxrloaded = () => {
       require('../image-targets/DSC_0051.json'),
       require('../image-targets/DSC_0053.json'),
       require('../image-targets/DSC_0054.json'),
-      require('../image-targets/goal.json')
+      require('../image-targets/goal-1.json')
     ],
   })
   XR8.addCameraPipelineModule(LandingPage.pipelineModule())
@@ -22,7 +22,7 @@ const onxrloaded = () => {
     DSC_0051: new Audio('assets/sound/5.wav'),
     DSC_0053: new Audio('assets/sound/6.wav'),
     DSC_0054: new Audio('assets/sound/7.wav'),
-    goal: new Audio('assets/sound/8.wav'),
+    'goal-1': new Audio('assets/sound/8.wav'),
   }
 
   // 事前ロード
