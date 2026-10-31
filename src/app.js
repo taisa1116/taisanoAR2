@@ -18,7 +18,7 @@ const onxrloaded = () => {
     DSC_0031: new Audio('assets/sound/1.wav'),
     DSC_0033: new Audio('assets/sound/2.wav'),
     DSC_0024: new Audio('assets/sound/3.wav'),
-    DSC_0018: new Audio('assets/sound/4.wav'),
+    DSC_0018: new Audio('assets/sound/9.wav'),
     DSC_0051: new Audio('assets/sound/5.wav'),
     DSC_0053: new Audio('assets/sound/6.wav'),
     DSC_0054: new Audio('assets/sound/7.wav'),
